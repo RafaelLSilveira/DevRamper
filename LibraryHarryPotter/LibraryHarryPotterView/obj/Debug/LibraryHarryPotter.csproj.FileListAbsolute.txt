@@ -1,0 +1,9 @@
+C:\Users\sepol\source\repos\LibraryHarryPotter\LibraryHarryPotterView\bin\Debug\LibraryHarryPotterView.exe.config
+C:\Users\sepol\source\repos\LibraryHarryPotter\LibraryHarryPotterView\bin\Debug\LibraryHarryPotterView.exe
+C:\Users\sepol\source\repos\LibraryHarryPotter\LibraryHarryPotterView\bin\Debug\LibraryHarryPotterView.pdb
+C:\Users\sepol\source\repos\LibraryHarryPotter\LibraryHarryPotterView\obj\Debug\LibraryHarryPotter.csprojAssemblyReference.cache
+C:\Users\sepol\source\repos\LibraryHarryPotter\LibraryHarryPotterView\obj\Debug\LibraryHarryPotterView.LibraryView.resources
+C:\Users\sepol\source\repos\LibraryHarryPotter\LibraryHarryPotterView\obj\Debug\LibraryHarryPotterView.Properties.Resources.resources
+C:\Users\sepol\source\repos\LibraryHarryPotter\LibraryHarryPotterView\obj\Debug\LibraryHarryPotter.csproj.GenerateResource.cache
+C:\Users\sepol\source\repos\LibraryHarryPotter\LibraryHarryPotterView\obj\Debug\LibraryHarryPotterView.exe
+C:\Users\sepol\source\repos\LibraryHarryPotter\LibraryHarryPotterView\obj\Debug\LibraryHarryPotterView.pdb
